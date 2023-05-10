@@ -1,0 +1,256 @@
+.film-1 {
+    align-items: flex-start;
+    background: linear-gradient(
+        180deg,
+        rgb(21.04, 21.04, 23.38) 0%,
+        rgba(12.84, 12.84, 21.25, 0.4) 52.08%,
+        rgb(25.34, 25.34, 28.69) 100%
+    );
+    background-color: rgba(255, 255, 255, 1);
+    border: 1px none;
+    display: flex;
+    flex-direction: column;
+    gap: 48px;
+    height: 1024px;
+    overflow: hidden;
+    padding: 40.5px 0;
+    width: 1440px;
+}
+
+.film-1 .overlap-group {
+    height: 78px;
+    margin-left: 4px;
+    margin-top: 15px;
+    position: relative;
+    width: 1444px;
+}
+
+.film-1 .retour-accueil {
+    height: 22px;
+    left: 1339px;
+    position: absolute;
+    top: 27px;
+    width: 43px;
+}
+
+.film-1 .menu {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    left: 0;
+    min-height: 78px;
+    position: absolute;
+    top: 0;
+    width: 1444px;
+}
+
+.film-1 .line-21 {
+    margin-top: -1px;
+}
+
+.film-1 .flex-row {
+    gap: 65px;
+    height: 22px;
+    margin-left: 182px;
+    margin-top: 27px;
+    min-width: 307px;
+}
+
+.film-1 .sceances {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 22px;
+    text-align: center;
+    white-space: nowrap;
+    width: 108px;
+}
+
+.film-1 .critiques {
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 22px;
+    text-align: center;
+    white-space: nowrap;
+    width: 134px;
+}
+
+.film-1 .line-20 {
+    margin-top: 28px;
+}
+
+.film-1 .fiche-container {
+    align-self: center;
+    gap: 52px;
+    height: 803px;
+    margin-right: 23px;
+    min-width: 1243px;
+}
+
+.film-1 .affiche-eternal-sunshine {
+    height: 794px;
+    object-fit: cover;
+    width: 506px;
+}
+
+.film-1 .fiche-film {
+    flex-direction: column;
+    gap: 30px;
+    min-height: 803px;
+    width: 685px;
+}
+
+.film-1 .titre-film {
+    align-items: flex-start;
+    border: 1px solid;
+    border-color: var(--blanc);
+    display: flex;
+    padding: 9px 10px;
+    position: relative;
+    width: 685px;
+}
+
+.film-1 .flex-container-1 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 11px;
+    height: 106px;
+    width: 664px;
+}
+
+.film-1 .text {
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: 664px;
+}
+
+.film-1 .synpsis {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    min-height: 239px;
+    width: 668px;
+}
+
+.film-1 .title {
+    color: var(--blanc);
+    font-family: var(--font-family-gupter);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-top: -1px;
+    min-height: 27px;
+    white-space: nowrap;
+}
+
+.film-1 .name {
+    align-self: flex-end;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 182px;
+    width: 657px;
+}
+
+.film-1 .group-14 {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    min-height: 320px;
+    width: 687px;
+}
+
+.film-1 .casting {
+    color: var(--blanc);
+    font-family: var(--font-family-gupter);
+    font-size: var(--font-size-xl);
+    font-weight: 400;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 27px;
+    white-space: nowrap;
+}
+
+.film-1 .teur-container {
+    align-items: flex-start;
+    display: flex;
+    gap: 73px;
+    height: 273px;
+    min-width: 687px;
+}
+
+.film-1 .teur {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 9px;
+    min-height: 273px;
+    width: 117px;
+}
+
+.film-1 .michel-grondy {
+    height: 170px;
+    object-fit: cover;
+    width: 115px;
+}
+
+.film-1 .flex-container {
+    flex-direction: column;
+    gap: 2px;
+    height: 94px;
+    position: relative;
+    width: 115px;
+}
+
+.film-1 .text-1 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    white-space: nowrap;
+    width: 115px;
+}
+
+.film-1 .jim-carrey {
+    height: 170px;
+    object-fit: cover;
+    width: 115px;
+}
+
+.film-1 .text2 {
+    letter-spacing: 0;
+    line-height: normal;
+    position: relative;
+    width: 115px;
+}
+
+.film-1 .x065591-1 {
+    height: 170px;
+    object-fit: cover;
+    width: 115px;
+}
+
+.film-1 .x441010-1 {
+    height: 170px;
+    object-fit: cover;
+    width: 115px;
+}
+
+.film-1 .fiche {
+    align-items: flex-start;
+    display: flex;
+}
+
+.film-1 .flex {
+    align-items: flex-start;
+    display: flex;
+}
+
+.film-1 .line {
+    height: 1px;
+    object-fit: cover;
+    width: 1436px;
+}

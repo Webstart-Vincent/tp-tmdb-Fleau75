@@ -1,0 +1,51 @@
+:root { 
+  --black: #000000;
+  --blanc: #f5f5ec;
+ 
+  --font-size-l: 24px;
+  --font-size-m: 16px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 45px;
+ 
+  --font-family-gupter: "Gupter", Helvetica;
+  --font-family-luxurious_roman-regular: "Luxurious Roman-Regular", Helvetica;
+}
+.gupter-normal-pampas-24px {
+  color: var(--blanc);
+  font-family: var(--font-family-gupter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gupter-normal-pampas-16px {
+  color: var(--blanc);
+  font-family: var(--font-family-gupter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.gupter-bold-pampas-24px {
+  color: var(--blanc);
+  font-family: var(--font-family-gupter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.gupter-bold-pampas-16px {
+  color: var(--blanc);
+  font-family: var(--font-family-gupter);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+}
+
+.luxuriousroman-regular-normal-pampas-45px {
+  color: var(--blanc);
+  font-family: var(--font-family-luxurious_roman-regular);
+  font-size: var(--font-size-xxl);
+  font-style: normal;
+  font-weight: 400;
+}
